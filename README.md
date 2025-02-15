@@ -1,4 +1,4 @@
-# FlamerMC - A dev that doesn't work on MC
+## FlamerMC - A dev that doesn't work on MC
 Hello my name is Flamer🔥.
 
 ### Languages I know: 
